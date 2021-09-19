@@ -1,6 +1,6 @@
 ## Weather Forecast API Practice
 
-## Live Link: https://arfaisalweb.github.io/13-Weather-Forecast/
+## Live Link: https://coderFaiisal.github.io/13-Weather-Forecast/
 
 ### Technologies used on this Project:
 
